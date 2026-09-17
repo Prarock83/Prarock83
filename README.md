@@ -3,9 +3,9 @@
 <table width="100%">
 <tr>
 <td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · prarock83</sub></p>
-<h1>prarock83</h1>
-<h2>Frontend or full-stack engineer</h2>
+<p><sub>RECRUITER SIGNAL BRIEF · Pratham Sharma</sub></p>
+<h1>Pratham Sharma</h1>
+<h2>Full-stack Developer</h2>
 <p>Building useful software and sharing the work in public.</p>
 <p><strong>● Building and sharing work in public</strong></p>
 
