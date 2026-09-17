@@ -107,16 +107,16 @@
 </p>
 
 <hr />
-<h2>LeetCode Activity</h2>
 
-<p align="center">
-  <a href="https://leetcode.com/u/xA1227h336/">
-    <img src="https://leetcard.jacoblin.cool/xA1227h336?theme=dark" width="500" alt="LeetCode Stats" />
-  </a>
-</p>
+<table width="100%">
+<tr>
 <td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
 <td width="38%" valign="middle" align="right"><a href="https://github.com/prarock83">GitHub</a></td>
 </tr>
 </table>
 
 <p align="center"><sub>prarock83 · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+
+
+
+this is the current github code readme 
