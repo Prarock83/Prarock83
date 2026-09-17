@@ -110,6 +110,34 @@
 
 <table width="100%">
 <tr>
+  <h2>Problem Solving</h2>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center">
+<strong>100</strong><br />
+<sub>Problems Solved</sub>
+</td>
+<td width="25%" align="center">
+<strong>85</strong><br />
+<sub>Java</sub>
+</td>
+<td width="25%" align="center">
+<strong>9</strong><br />
+<sub>MySQL</sub>
+</td>
+<td width="25%" align="center">
+<strong>6</strong><br />
+<sub>C++</sub>
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://leetcode.com/u/xA1227h336/">
+    <img src="https://img.shields.io/badge/LeetCode-100%20Problems%20Solved-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+</p>
 <td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
 <td width="38%" valign="middle" align="right"><a href="https://github.com/prarock83">GitHub</a></td>
 </tr>
